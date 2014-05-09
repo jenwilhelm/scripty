@@ -3,9 +3,23 @@ Photoshop Export Layers as PNGs
 
 ## Description
 
-Saves each layer in the active document as a PNG. If a folder or layer starts with an asterisk (*), the child layers will be saved as separate images. If a folder does not start with an asterisk, the child layers will be saved as a single combined image. If a layer or a folder starts with a pound symbol (#), that layer or folder will be ignored. The resulting PNGs will be saved in the same directory that your PSD resides in.
+Saves each layer in the active document as a PNG. The PNGs will be named after their respective layer (ie, if your layer is named background_color, your PNG will be background_color.png). All resulting PNGs will be saved in the same directory that your PSD resides in.
+
+If a folder or layer starts with an asterisk (*), its child layers will be saved as separate images.
+
+If a folder itself does not start with an asterisk, its child layers will be saved as a single combined image. 
+
+If a layer or a folder starts with a pound symbol (#), that layer or folder will be ignored and will not export a PNG. 
 
 Modified from: [https://github.com/jwa107/Photoshop-Export-Layers-as-Images](https://github.com/jwa107/Photoshop-Export-Layers-as-Images)
+
+## Example
+
+### Using astericks
+
+Any folder or layer that begins with an * symbol will be saved as separate images:
+
+
 
 ## Requirements
 
