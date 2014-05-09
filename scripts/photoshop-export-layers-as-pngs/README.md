@@ -5,6 +5,8 @@ Photoshop Export Layers as PNGs
 
 Saves each layer in the active document as a PNG. The PNGs will be named after their respective layer (ie, if your layer is named background_color, your PNG will be background_color.png). All resulting PNGs will be saved in the same directory that your PSD resides in.
 
+Modified from: [https://github.com/jwa107/Photoshop-Export-Layers-as-Images](https://github.com/jwa107/Photoshop-Export-Layers-as-Images)
+
 ## Example
 
 ### Ignoring layers
@@ -22,8 +24,6 @@ If a folder or layer starts with an asterisk (*), its child layers will be saved
 If a folder itself does not start with an asterisk, its child layers will be saved as a single combined image. 
 
 <img src="https://raw.githubusercontent.com/jenwilhelm/scripty/master/scripts/photoshop-export-layers-as-pngs/no-asterisk.jpg" alt="No asterisk">
-
-Modified from: [https://github.com/jwa107/Photoshop-Export-Layers-as-Images](https://github.com/jwa107/Photoshop-Export-Layers-as-Images)
 
 ## Requirements
 
