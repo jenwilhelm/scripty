@@ -13,7 +13,7 @@ If a folder or layer starts with an asterisk (*), its child layers will be saved
 
 If a folder itself does not start with an asterisk, its child layers will be saved as a single combined image. 
 
-<img src="https://github.com/jenwilhelm/scripty/blob/master/scripts/photoshop-export-layers-as-pngs/no_asterisk.jpg" alt="No asterisk">
+<img src="https://github.com/jenwilhelm/scripty/blob/master/scripts/photoshop-export-layers-as-pngs/no-asterisk.jpg" alt="No asterisk">
 
 Modified from: [https://github.com/jwa107/Photoshop-Export-Layers-as-Images](https://github.com/jwa107/Photoshop-Export-Layers-as-Images)
 
