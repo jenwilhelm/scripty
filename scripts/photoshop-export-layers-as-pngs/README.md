@@ -7,7 +7,11 @@ Saves each layer in the active document as a PNG. The PNGs will be named after t
 
 If a folder or layer starts with an asterisk (*), its child layers will be saved as separate images.
 
+<img src="https://raw.githubusercontent.com/jenwilhelm/scripty/master/scripts/photoshop-export-layers-as-pngs/asterisk.jpg" alt="Asterisk">
+
 If a folder itself does not start with an asterisk, its child layers will be saved as a single combined image. 
+
+<img src="https://raw.githubusercontent.com/jenwilhelm/scripty/master/scripts/photoshop-export-layers-as-pngs/no-asterisk.jpg" alt="No asterisk">
 
 If a layer or a folder starts with a pound symbol (#), that layer or folder will be ignored and will not export a PNG. 
 
