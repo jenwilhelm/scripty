@@ -11,7 +11,7 @@ Contains a script that configures my iTerm2 windows, tabs, and split-panes. It a
 
 ### photoshop-export-layers-as-pngs
 
-Contains a script (SaveLayers.jsx) for exporting layers in a Photoshop document to PNGs. Additional documentation is available [here](http://www.github.com/jenwilhelm/scripty/config/photoshop-export-layers-as-pngs/README.md).
+Contains a script (SaveLayers.jsx) for exporting layers in a Photoshop document to PNGs. Additional documentation is available [here](https://github.com/jenwilhelm/scripty/tree/master/scripts/photoshop-export-layers-as-pngs).
 
 ## Config
 
